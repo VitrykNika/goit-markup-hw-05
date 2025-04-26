@@ -529,7 +529,6 @@ padding: 120px 0;
 	align-items: center;
 	justify-content: center;
 	flex-direction: row;
-	gap: 16px;
 	
 	min-width: 165px;
 	height: 40px;
@@ -773,7 +772,7 @@ padding: 120px 0;
 	align-items: center;
 	justify-content: center;
 	flex-direction: row;
-	
+
 	border-radius: 4px;
 	padding: 16px 32px;
 	min-width: 169px;
